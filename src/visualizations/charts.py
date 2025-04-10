@@ -5,9 +5,8 @@ import base64
 import pandas as pd
 
 def create_income_expense_charts(data):
-    """
-    Generate charts and summary data for the dashboard.
-    """
+
+    #Generate charts and summary data for the dashboard.
     charts = {}
 
     # Set a consistent style for the charts
